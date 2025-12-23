@@ -7,7 +7,7 @@
 
 - 🔭 I Have Two years of experiance **Software devloper**
 
-- 🌱 I’m currently learning **CEH V13 , VAPT**
+- 🌱 I’m recently Certified as Ethical Hacker **CEH V13 , VAPT  and ISO 27001 2022**
 
 - 👯 I’m looking to collaborate on **Cyber Security**
 
